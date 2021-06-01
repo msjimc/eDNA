@@ -1,0 +1,9 @@
+C:\Users\Ian\source\repos\FilterDatarRNAData_GitHub\FilterDatarRNAData_GitHub\obj\Debug\FilterDatarRNAData_GitHub.Form1.resources
+C:\Users\Ian\source\repos\FilterDatarRNAData_GitHub\FilterDatarRNAData_GitHub\obj\Debug\FilterDatarRNAData_GitHub.Properties.Resources.resources
+C:\Users\Ian\source\repos\FilterDatarRNAData_GitHub\FilterDatarRNAData_GitHub\obj\Debug\FilterDatarRNAData_GitHub.csproj.GenerateResource.Cache
+C:\Users\Ian\source\repos\FilterDatarRNAData_GitHub\FilterDatarRNAData_GitHub\obj\Debug\FilterDatarRNAData_GitHub.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\FilterDatarRNAData_GitHub\FilterDatarRNAData_GitHub\bin\Debug\FilterDatarRNAData_GitHub.exe.config
+C:\Users\Ian\source\repos\FilterDatarRNAData_GitHub\FilterDatarRNAData_GitHub\bin\Debug\FilterDatarRNAData_GitHub.exe
+C:\Users\Ian\source\repos\FilterDatarRNAData_GitHub\FilterDatarRNAData_GitHub\bin\Debug\FilterDatarRNAData_GitHub.pdb
+C:\Users\Ian\source\repos\FilterDatarRNAData_GitHub\FilterDatarRNAData_GitHub\obj\Debug\FilterDatarRNAData_GitHub.exe
+C:\Users\Ian\source\repos\FilterDatarRNAData_GitHub\FilterDatarRNAData_GitHub\obj\Debug\FilterDatarRNAData_GitHub.pdb
