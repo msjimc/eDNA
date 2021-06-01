@@ -1,0 +1,2 @@
+File name	Counts
+MV3_S1_L001_R1_001.fastq.gz 	18867464
